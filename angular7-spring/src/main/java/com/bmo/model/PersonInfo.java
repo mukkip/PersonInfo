@@ -2,7 +2,7 @@ package com.bmo.model;
 
 public class PersonInfo {
 
-	private String FirstName;
+	public String FirstName;
 	private String LastName;
 
 	public String getFirstName() {

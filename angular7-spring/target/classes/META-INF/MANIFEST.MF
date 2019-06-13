@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: mukki
+Build-Jdk: 11.0.2
+Implementation-Title: SpringBootHelloWorld
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.bmo
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/angular7-spring
+Created-By: Maven Integration for Eclipse
+
